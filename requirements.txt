@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+ipykernel
+jupyter
+requests
+umap-learn
+scipy
+biopython
+mygene
+GEOparse
